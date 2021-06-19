@@ -1,6 +1,6 @@
 ### Hi there , I'm Sudersan 👋
 
-## I'm a final year college undergraduate
+### I'm a final year college undergraduate
 
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning React.js and building projects
