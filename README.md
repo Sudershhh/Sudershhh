@@ -11,6 +11,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="portfolio | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -34,5 +35,5 @@
 
 [instagram]: https://www.instagram.com/sudershhh/
 [linkedin]: https://www.linkedin.com/in/know-sri-sudersan/
-
+[portfolio]: https://sri-sudersan.netlify.app/
 
