@@ -3,7 +3,7 @@
 ### I'm a final year college undergraduate
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning React.js and building projects
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about anything..
 - ⚡ Fun fact: The moon has moonquakes
 - 2021 Goals : Become a frontend developer
