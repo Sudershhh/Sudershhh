@@ -35,5 +35,5 @@
 
 [instagram]: https://www.instagram.com/sudershhh/
 [linkedin]: https://www.linkedin.com/in/know-sri-sudersan/
-[portfolio]: www.sri-sudersan.com
+[portfolio]: https://sri-sudersan.com/
 
