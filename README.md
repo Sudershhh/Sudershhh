@@ -3,10 +3,10 @@
 ### I'm a final year college undergraduate
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Node.js
 - 💬 Ask me about anything..
 - ⚡ Fun fact: The moon has moonquakes
-- 2021 Goals : Become a frontend developer
+- 2022 Goals : Learn Backend technologies by building projects but most importantly, Have Fun!
 
 
 ### Connect with me:
