@@ -1,6 +1,6 @@
 ### Hi there , I'm Sudersan 👋
 
-### I'm a final year college undergraduate
+### I'm a Frontend Developer @ TCS
 
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning Next.js and Node.js
