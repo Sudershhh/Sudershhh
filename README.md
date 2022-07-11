@@ -2,8 +2,8 @@
 
 ### I'm a Frontend Developer @ TCS
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning Next.js and Node.js
+- 🔭 I’m currently working on Web development and Leetcode
+- 🌱 I’m currently learning Node.js and Express.js
 - 💬 Ask me about anything..
 - ⚡ Fun fact: The moon has moonquakes
 - 2022 Goals : Learn Backend technologies by building projects but most importantly, Have Fun!
