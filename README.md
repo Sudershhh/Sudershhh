@@ -1,6 +1,6 @@
-### Hi there , I'm Sudersan 👋
+### Hi there , My name is Sri Sudersan 👋
 
-### I'm a Frontend Developer @ TCS
+### I'm a Computer Science Graduate Student @ Drexel University
 
 - 🔭 I’m currently working on Web development and Leetcode
 - 🌱 I’m currently learning Backend development including tech like Node.js and Express.js and also learning Data Structures and algorithms.
