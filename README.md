@@ -3,7 +3,7 @@
 ### I'm a Computer Science Graduate Student @ Drexel University
 
 - 🔭 I’m currently working on Web development and Leetcode
-- 🌱 I’m currently learning Backend development including tech like Node.js and Express.js and also learning Data Structures and algorithms.
+- 🌱 I’m learning Backend development including tech like Node.js and Express.js and also learning Data Structures and algorithms.
 - 💬 Ask me about anything..
 - ⚡ Fun fact: The moon has moonquakes
 - 2023 Goals : Learn Blockchain and Backend technologies by building projects but most importantly, Have Fun!
