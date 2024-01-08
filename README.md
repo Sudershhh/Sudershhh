@@ -6,7 +6,7 @@
 - 🌱 I’m learning Backend development including tech like Node.js and Express.js and also learning Data Structures and algorithms.
 - 💬 Ask me about anything..
 - ⚡ Fun fact: The moon has moonquakes
-- 2023 Goals : Learn Blockchain and Backend technologies by building projects but most importantly, Have Fun!
+- 2024 Goals : Learn Blockchain and Backend technologies by building projects but most importantly, Have Fun!
 
 
 ### Connect with me:
