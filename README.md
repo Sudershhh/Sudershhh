@@ -1,38 +1,26 @@
 ### Hi there , My name is Sri Sudersan 👋
 
-### I'm a Computer Science Graduate Student @ Drexel University
-
-- 🔭 I’m currently working on Web development and Leetcode
-- 🌱 I’m learning Backend development including tech like Node.js and Express.js and also learning Data Structures and algorithms.
-- 💬 Ask me about anything..
-- ⚡ Fun fact: The moon has moonquakes
-- 2024 Goals : Learn Blockchain and Backend technologies by building projects but most importantly, Have Fun!
+# 💫 About Me:
+As a Frontend Engineer and Full Stack Developer, I am passionate about creating user-centric web experiences that are not only functional but also engaging. With a Master's degree in Computer Science from Drexel University, I have a solid foundation in software engineering principles and practices.<br><br>With hands-on experience in frontend development, I bring a wealth of expertise in building robust web applications. From spearheading the development of Web3 Gold Tokenization applications to leading teams in developing impactful solutions, I thrive in fast-paced environments. <br><br>Proficient in React.js, Redux, JavaScript, TypeScript, I excel in crafting user-centric experiences and driving engagement. My passion for innovation, coupled with a collaborative spirit, allows me to adapt seamlessly to new challenges and deliver exceptional results.<br><br>I enjoy diving into diverse coding challenges and learning new technologies. Currently, I am exploring opportunities in the industry, where I can contribute my skills, passion, and creativity to transformative projects that align with both my professional growth and personal values. <br><br>Let's connect and explore how my skills can contribute to your team's success.<br><br>⚡ Fun fact: The moon has moonquakes
 
 
-### Connect with me:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/know-sri-sudersan) 
 
-[<img align="left" alt="portfolio | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sudershhh&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sudershhh&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudershhh&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sudershhh&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
-### Languages and Tools:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sudershhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap5" width="26px" src="https://user-images.githubusercontent.com/59435391/122651429-5b0e7980-d156-11eb-8e4b-6aa54f6ef96b.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux Toolkit" width="26px" src="https://user-images.githubusercontent.com/59435391/122651485-bc364d00-d156-11eb-91eb-becb6c981127.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+---
+[![](https://visitcount.itsvg.in/api?id=Sudershhh&icon=4&color=11)](https://visitcount.itsvg.in)
 
-<br />
-<br />
-
-
-
-[instagram]: https://www.instagram.com/sudershhh/
-[linkedin]: https://www.linkedin.com/in/know-sri-sudersan/
-[portfolio]: https://sri-sudersan.com/
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
