@@ -1,7 +1,15 @@
 ### Hi there , I'm Sri 👋
 
 # 💫 About Me:
-As a Full Stack Engineer, I am passionate about creating user-centric web experiences that are not only functional but also engaging. With a Master's degree in Computer Science from Drexel University, I have a solid foundation in software engineering principles and practices.<br><br>With hands-on experience in frontend development, I bring a wealth of expertise in building robust web applications. From spearheading the development of Web3 Gold Tokenization applications to leading teams in developing impactful solutions, I thrive in fast-paced environments. <br><br>Proficient in React.js, Redux, JavaScript, TypeScript, I excel in crafting user-centric experiences and driving engagement. My passion for innovation, coupled with a collaborative spirit, allows me to adapt seamlessly to new challenges and deliver exceptional results.<br><br>I enjoy diving into diverse coding challenges and learning new technologies. Currently, I am exploring opportunities in the industry, where I can contribute my skills, passion, and creativity to transformative projects that align with both my professional growth and personal values. <br><br>Let's connect and explore how my skills can contribute to your team's success.<br><br>⚡ Fun fact: The moon has moonquakes
+Software Engineer | MSc Computer Science, Drexel University
+
+🚀 Full-stack developer specializing in blockchain, fintech, and web technologies.
+🏗️ Experience in building DeFi platforms and enterprise-level applications
+🔬 Research interests: Blockchain, system design, fintech innovations
+🌐 Currently volunteering as a Full Stack Engineer at Curajoy, developing scalable and performant microservices
+📊 Skilled in Ddata Visualization, Performance Optimization & Web Accessibility
+🎯 Seeking opportunities to contribute to transformative projects in the Software Engineering sector!
+<br><br>⚡ Fun fact: The moon has moonquakes
 
 
 ## 🌐 Socials:
