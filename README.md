@@ -3,7 +3,7 @@
 # 💫 About Me:
 Software Engineer | MSc Computer Science, Drexel University
 
-🚀 Full-stack Engineer specializing in blockchain, fintech, and web technologies.<br><br>
+🚀 Full-stack Engineer.<br><br>
 🏗️ Experience in building DeFi platforms and enterprise-level applications.<br><br>
 🔬 Research interests: Blockchain, system design, fintech innovations.<br><br>
 🌐 Currently volunteering as a Full Stack Engineer at Curajoy, developing scalable and performant microservices.<br><br>
