@@ -8,7 +8,7 @@ Software Engineer | MSc Computer Science, Drexel University
 🌐 Currently volunteering as a Full Stack Engineer at Curajoy, developing scalable and performant microservices.<br><br>
 📊 Skilled in Data Visualization, Performance Optimization & Web Accessibility.<br><br>
 🎯 Seeking opportunities to contribute to transformative projects in the Software Engineering sector!<br><br>
-<br><br>⚡ Fun fact: The moon has moonquakes
+⚡ Fun fact: The moon has moonquakes
 
 
 ## 🌐 Socials:
