@@ -1,7 +1,7 @@
 ### Hi there , I'm Sri 👋
 
 # 💫 About Me:
-Software Engineer | MSc Computer Science, Drexel University
+Software Engineer | MS Computer Science, Drexel University
 
 🏗️ Experience in building User Interfaces, Enterprise-level applications, Microservices & DeFi Platforms.<br><br>
 🔬 Research interests: Blockchain, system design, fintech innovations.<br><br>
