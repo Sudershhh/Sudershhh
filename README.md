@@ -5,7 +5,7 @@ Software Engineer | MS Computer Science, Drexel University
 
 🏗️ Experience in building User Interfaces, Enterprise-level applications, Microservices & DeFi Platforms.<br><br>
 🔬 Research interests: Blockchain, system design, fintech innovations.<br><br>
-🌐 Currently volunteering as a Full Stack Engineer at Curajoy, developing scalable and performant microservices.<br><br>
+🌐 Currently working at Kivane Tech and volunteering as a Full Stack Engineer at Curajoy, developing scalable and performant microservices.<br><br>
 📊 Frontend, Performance Optimization & Web Accessibility.<br><br>
 🎯 Seeking opportunities to contribute to transformative projects in the Software Engineering sector!<br><br>
 ⚡ Fun fact: The moon has moonquakes
