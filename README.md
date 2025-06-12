@@ -11,8 +11,8 @@ I'm a full-stack engineer with a **frontend core**, building fast, scalable, and
 
 - 🏗️ **Sole Frontend Engineer at Dataparts**, leading UI architecture for a next-gen AI conversation platform — built with React, TypeScript, Zustand, ShadCN UI, and FastAPI  
 - ⚙️ Architecting micro-frontend systems with Vite + Module Federation to support modular growth and team scalability  
-- 📈 Deeply focused on frontend performance — optimizing Core Web Vitals (LCP/INP), improving render cycles, and building resilient real-time UIs  
-- 🔁 Working across the stack when needed — implementing microservices, integrating OpenAI APIs, and refining data flows  
+- 📈 Deeply focused on frontend performance - optimizing Core Web Vitals (LCP/INP), improving render cycles, and building resilient real-time UIs  
+- 🔁 Working across the stack when needed - implementing microservices, integrating OpenAI APIs, and refining data flows  
 - 🧪 Building interfaces powered by OpenAI, LangChain, LangGraph, Clerk, Convex, and Postgres — both independently and in cross-functional teams
 
 ---
