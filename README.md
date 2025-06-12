@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sri
 
-#### 🧠 Frontend-Focused Software Engineer | Design Systems | AI Interface Explorer  
+#### Frontend-Focused Software Engineer | Design Systems | AI Interface Explorer  
 *MS Computer Science – Drexel University · Based in United States*
 
 ---
